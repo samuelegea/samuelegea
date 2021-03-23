@@ -1,11 +1,64 @@
-Hi, I'm Samuel Egea
+Hi, I'm Samuel Egea,
 
-- 💻I'm a brazilian student in software development
-- ⚙ And mechatronical engeneering
-- 👀 Looking foward to learn and enter the software development workforce
-- ⚛️ Currently learning modern frontend software development with ReactJS
+- 🤓I'm a student in software development
+- ⚙ and mechatronical engeneering
+- 💻 learning modern software web delepment, at the time
+- ⚛️ focused in frontend development with React.
 
-I have academic experience in low-level languages such as Assembly for ARM and Intelx86 architecture and VDHL, and I'm currently working on building a portfolio.
+I have academic expience with low level languages such Assembly/VDHL and microprocessor programming in plataforms such as ARM technologies.
 
-Below there's a list on my technical knowledge:
+At the time I have these rating on the below technologies
+
+From JavaScript enviroment
+-----------------------
+- ReactJS 
+	* ⭐⭐⭐⭐
+- NodeJS
+	* ⭐⭐
+- ReactNative
+	* ⭐⭐
+- Vue
+	* ⭐⭐
+
+From Backend Technologies
+----------------------
+- Ruby on Rails
+	* ⭐⭐⭐⭐
+- PHP
+	* ⭐⭐
+- C/C++
+	* ⭐⭐⭐⭐
+- Python
+	* ⭐
+- Java
+	* ⭐⭐
+
+From Basic Web Infrastructure
+------------------------------
+- Html
+	* ⭐⭐⭐⭐
+- Css
+	* ⭐⭐⭐
+- Sass
+	* ⭐⭐⭐⭐⭐
+- Git
+	* ⭐⭐⭐⭐
+- AWS
+	* ⭐⭐⭐
+	
+From Databases
+------------------------------
+- SQL
+	* ⭐⭐⭐
+- Postgresql
+	* ⭐⭐⭐
+- MongoDB
+	* ⭐⭐⭐⭐
+
+
+Current Projects/Previous Projects
+===========================
+
+- [Chess frontend](https://github.com/ruddinie/chess_frontend)
+- And currently working on new projects to add here
 
