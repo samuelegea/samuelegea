@@ -59,7 +59,7 @@
 
 
 ## And Here is my stats for 2022!
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/samuelegea/svg/avgupta456/langs)](https://githubtrends.io)
 
 ## Want to get in touch? ✉️
 
