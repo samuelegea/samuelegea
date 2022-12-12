@@ -57,6 +57,10 @@
   </p>
 </a>
 
+
+## And Here is my stats for 2022!
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
 ## Want to get in touch? ✉️
 
 <a href="mailto:samuel.buranelo@gmail.com">
