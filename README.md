@@ -2,49 +2,21 @@
 <a href="https://www.linkedin.com/in/samuel-egea/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
-<a href="https://samuelegea-portfolio.herokuapp.com">
-<img src="https://img.shields.io/badge/Portfolio-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"/>
-</a>
-
 
 
 ## About me 🧒🏻
 
-- I'm a software developer 
-- Working from home 🏠
-- Really into Technology! 💻
+I'm a Backend Engineer, specializing in Ruby on Rails, that can handle critical business flows, with a business-oriented type of approach, that suits me really well in my career. Always eager to learn, I believe on a "T" type of professional and aim be it, having a lot of sparse knowledge on several technologies, but focusing my career on one specifically.
 
 ## Stack(s) 🛠️
 
-- ❤️ I'm really in love with this: <br />
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br />
+My Expertise goes for:
+- Ruby on Rails
+- PostgreSQL
+- JavaScript
 
-- 🧰 Use this really often: <br />
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
-
-- 📚 Learning this but already have some experience:  <br />
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>
-
-
-- 🤩 Still Learning this and thinking they are awsome: <br/>
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)<br/>
-
-- 👀 Looking Forward to leaning this: <br/>
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)<br/>
-
+But I also have some knowledge about:
+C, C#, C++, Elixir, PHP, HTML, CSS, SQL in general, a little bit of noSQL, Python, TypeScript, NodeJS, Rust and Go.
 
 <div id="stats" />
 
